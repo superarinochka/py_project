@@ -1,3 +1,4 @@
-from funcs import summs
+from funcs import summs, subtraction
 
 summs()
+subtraction()
